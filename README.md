@@ -1,23 +1,28 @@
-# SkoolaHub-Desktop
+# SkoolaHub Desktop 🎓
 
-The official desktop companion for **SkoolaHub**. This application is a lightweight Electron wrapper for the SkoolaHub web platform, designed for performance and ease of access.
+The official desktop companion for **SkoolaHub**. This application provides a dedicated, high-performance environment for students and educators in Ghana to access the SkoolaHub platform.
 
-## ✨ Features
+## 📥 Download & Install
 
-* **Dedicated Learning Environment:** Removes the distractions of browser tabs and bookmarks.
-* **Automatic Live Sync:** Connects directly to `app.skoolahub.com`—get the latest curriculum updates and features instantly without manual updates.
-* **Native Experience:** Integrated window controls, a custom taskbar icon, and optimized screen real estate.
-* **Smart Link Handling:** Educational resources and internal links stay within the app, while external research links open safely in your default browser.
-* **Offline Awareness:** Built-in connection monitoring with a custom fallback page to guide users during internet outages.
+To get started with SkoolaHub on your PC, follow these steps:
 
-## 🛠️ Tech Stack
+1. **Download the Installer:** Click the button below to go to the latest release page.
+   > [**Download SkoolaHub for Windows (.exe)**](https://github.com/datasage6/SkoolaHub-Desktop/releases/latest)
 
-* **Framework:** Electron.js
-* **Core Engine:** Nuxt / Vue.js (Live Web Application)
-* **Packaging:** Electron Builder
+2. **Run the Setup:** Once the download is complete, open the `.exe` file.
+3. **Start Learning:** The app will install and automatically launch the SkoolaHub platform.
 
-## 🚀 Getting Started
+---
 
-### Prerequisites
-* **Node.js** (LTS version recommended)
-* **npm**
+## ✨ Why use the Desktop App?
+
+* **Focused Learning:** No more browser tabs or distracting notifications.
+* **Instant Updates:** Always stay up to date with the latest JHS curriculum materials automatically.
+* **Native Experience:** Designed to feel like a permanent part of your computer for faster access.
+* **Offline Awareness:** If your internet drops, the app helps you troubleshoot with a dedicated offline screen.
+* **Smart Links:** External research links open safely in your browser, keeping your study session secure.
+
+---
+
+## 💡 Support
+If you encounter any issues with the desktop app or need help with your SkoolaHub account, please visit our web app at [app.skoolahub.com](https://app.skoolahub.com).
