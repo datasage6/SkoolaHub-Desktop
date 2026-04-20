@@ -1,6 +1,6 @@
-# SkoolaHub Desktop 🎓
+# SkoolaHub Desktop
 
-The official desktop companion for **SkoolaHub**. This application provides a dedicated, high-performance environment for students and educators in Ghana to access the SkoolaHub platform.
+We're excited to bring SkoolaHub to your desktop! This release introduces the official SkoolaHub Desktop app for Windows, giving you a faster, more focused way to access your school management platform.
 
 ## 📥 Download & Install
 
